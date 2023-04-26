@@ -1,0 +1,15 @@
+body
+{
+    background: lightyellow;
+    color:blue;
+}
+.jumbotron
+{
+    background: cyan;
+    color:red;
+}
+ul,li{
+    float:left;
+    color:red;
+    font-size: 20px;
+}
